@@ -1,4 +1,3 @@
-window.onload = () => {
 /*
      _ _      _       _
  ___| (_) ___| | __  (_)___
@@ -15,7 +14,8 @@ window.onload = () => {
   Issues: http://github.com/kenwheeler/slick/issues
 
  */
-/* global window, document, define, jQuery, setInterval, clearInterval */
+/* window.onload = function(){
+global window, document, define, jQuery, setInterval, clearInterval */
 ;(function(factory) {
     'use strict';
     if (typeof define === 'function' && define.amd) {
@@ -3011,3 +3011,4 @@ window.onload = () => {
 
 }));
 }
+};
