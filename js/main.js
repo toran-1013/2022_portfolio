@@ -1,4 +1,4 @@
-window.addEventListener('DOMContentLoaded',
+window.onload = function(){
 const ham = document.querySelector('#js-hamburger');
 const nav = document.querySelector('#js-nav');
 ham.addEventListener('click', function () {
@@ -39,4 +39,4 @@ $('.slick01').slick({
     //autoplaySpeed:4000,
     //dots:true,
 //});
-}
+};
