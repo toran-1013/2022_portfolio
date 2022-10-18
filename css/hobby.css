@@ -447,6 +447,8 @@ h2 {
 .About_line {
   width: 100vw;
   height: auto;
+  letter-spacing : 3px;
+  line-height: 1.5;
   text-align: center;
   position: relative;
   top: 0vh;
@@ -460,6 +462,8 @@ h2 {
     position: relative;
     top: -200vh;
     margin-top: 0;
+    letter-spacing : 3px;
+    line-height: 1.5;
     padding-bottom: 0px;
     font-size: 28px;
     font-family: serif;
@@ -471,6 +475,8 @@ h2 {
   .About_line {
     width: 100vw;
     height: auto;
+    letter-spacing : 3px;
+    line-height: 1.5;
     position: relative;
     top: -30vh;
     margin: 0;
