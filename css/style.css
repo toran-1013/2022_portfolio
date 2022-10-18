@@ -440,6 +440,8 @@ h2 {
   width: 100vw;
   height: auto;
   text-align: center;
+  letter-spacing : 3px;
+  line-height: 1.5;
   font-size: 15.5px;
   font-family: serif;
 }
@@ -448,6 +450,8 @@ h2 {
     width: 100vw;
     height: auto;
     margin: 0;
+    letter-spacing : 3px;
+    line-height: 1.5;
     padding-bottom: 10px;
     font-size: 28px;
     font-family: serif;
@@ -459,6 +463,8 @@ h2 {
   .About_line {
     width: 100vw;
     height: auto;
+    letter-spacing : 3px;
+    line-height: 1.5;
     margin: 0;
     font-size: 32px;
     font-family: serif;
@@ -510,6 +516,8 @@ h2 {
   .gaiyou {
     width: 100vw;
     height: auto;
+    letter-spacing : 3px;
+    line-height: 1.5;
   }
 }
 /*dl1文言*/
@@ -1043,6 +1051,8 @@ h2 {
   width: 100vw;
   height: auto;
   text-align: center;
+  letter-spacing : 3px;
+  line-height: 1.5;
   font-size: 15.5px;
   font-family: serif;
 }
@@ -1053,6 +1063,8 @@ h2 {
     position: relative;
     top: 35vh;
     margin: 0;
+    letter-spacing : 3px;
+    line-height: 1.5;
     font-size: 28px;
     font-family: serif;
     word-break: normal;
@@ -1064,6 +1076,8 @@ h2 {
     width: 100vw;
     height: auto;
     position: relative;
+    letter-spacing : 3px;
+    line-height: 1.5;
     top: -25vh;
     margin: 0;
     font-size: 28px;
@@ -1109,6 +1123,8 @@ h2 {
   height: auto;
   position: relative;
   top: 2.5vh;
+  letter-spacing : 3px;
+  line-height: 1.5;
   text-align: center;
   font-size: 15.5px;
   font-family: serif;
@@ -1120,6 +1136,8 @@ h2 {
     position: relative;
     top: 35vh;
     margin: 0;
+    letter-spacing : 3px;
+    line-height: 1.5;
     font-size: 28px;
     font-family: serif;
     word-break: normal;
@@ -1131,6 +1149,8 @@ h2 {
     width: 100vw;
     height: auto;
     position: relative;
+    letter-spacing : 3px;
+    line-height: 1.5;
     top: -30vh;
     margin: 0;
     font-size: 34px;
